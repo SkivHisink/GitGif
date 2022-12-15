@@ -20,7 +20,7 @@ Result:
 
 1. Repeat the first three points from the first point.
 2. Upload the gif to the repository.
-3. Specify the path to it in the form of a hyperlink. \!\[](filename)
+3. Specify the path to it in the form of a hyperlink. \!\[](path)
 
 Result:
 
